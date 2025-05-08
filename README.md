@@ -76,13 +76,13 @@ I thrive on solving problems with elegant code and beautiful design.
 <!-- Uncomment this section once public projects with code are added -->
 
 <!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EslamAmaar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam-Abdelati&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EslamAmaar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam-Abdelati&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EslamAmaar&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/EslamAmaar?style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Eslam-Abdelati&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followersEslam-Abdelati?style=social" alt="GitHub followers" />
 </p>
